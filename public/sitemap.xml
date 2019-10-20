@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-10-20T18:10:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/nicecream/</loc>
+    <lastmod>2019-10-20T18:10:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2019-10-20T18:10:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/test/</loc>
+    <lastmod>2019-10-20T16:10:52-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+</urlset>
